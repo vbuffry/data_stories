@@ -13,3 +13,4 @@ I often have to convince clients to pursue a given course of action, but data al
 
 # Portfolio
 You can find my practice graphs from in-class activities <a href="https://vbuffry.github.io/data_stories/portfolio">here</a>
+Here are the graphs for the <a href="https://vbuffry.github.io/data_stories/dataviz2"> second assignment</a>.
