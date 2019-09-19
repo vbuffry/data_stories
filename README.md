@@ -26,6 +26,8 @@ To appease my critics and also the viewers of Real Clear Politics (which seems t
 
 Warren does appear to be a bit of a wild card with the largest range of poll results. I made a focused version that compares her to the others:<br><img src="https://i.postimg.cc/TPmCMZZg/poll3.jpg" width="700">
 
+(Note: The averages don't precises match those in the sample table posted at the beginning because the data had been updated in the interim between creating the graph and making this post. I decided to capture the image before further iterations occurred.)
+
 To improve upon these iterations (but with more data outside this scope), I thought about creating a version with "weighted" poll results, whereby those who are more trustworthy might be indicated by circle size and also pull the average toward their outcomes. That seems like a subjective weight though, and I'm not sure if such a ranking has been carried out and quantified. 
 
 You can find my practice graphs from in-class activities <a href="https://vbuffry.github.io/data_stories/portfolio">here</a>
