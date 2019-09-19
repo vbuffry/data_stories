@@ -16,15 +16,15 @@ Real Clear Politics uses a <a href="https://www.realclearpolitics.com/epolls/202
 
 This was one of the key ideas I spoke about in my critique of the visualization, which rated it highly for having "all the data" present (truthfulness and completeness), but low for intuitiveness, perceptability, engagement, and aesthetics. I mentioned that Real Clear POlitics is aiming toward a more sophisticated politics junkie who knows statistics... but that doesn't mean they don't want their information cleanly and intuitively presented. Some good features of the table as it was were that you could click on the poll title and see a copy of the actual instrument used to yield those results. 
 
-For this activity, I wanted to visualize the table of numbers that Real Clear Politics presents its viewers and wireframed the following graph. <img src="https://i.postimg.cc/m21hV8Q0/IMG-20190918-211131.jpg"><br>
+For this activity, I wanted to visualize the table of numbers that Real Clear Politics presents its viewers and wireframed the following graph. <img src="https://i.postimg.cc/25mByM14/IMG-20190918-211131.jpg"><br>
 I played on the presidental "race" motif and tried to depict the range of results like a streak around the average, so one could easily compare the overlap of these tails with those of proximate candidates, without losing the key average information. I was pretty proud of the play-on-words that I managed to integrate into the chart title, which I expected would help the viewer understand the "tails" if it wasn't immediately obvious. 
 
 The feedback I got was pretty funny because it was precisely the play-on-words (particularly about the race and finish line) that led my three subjects astray. One thought that the tails indicated speed (as in, a longer tail means the candidate is quickly rising in the polls), and another thought it showed the "distance" the candidate travelled in the polls (before commenting that it wasn't possible for ALL numbers to go up that much!). Another thought that the finish line is contrived since there is further "whittling down" to do in the party and the percentage threshold to win will keep changing. When I folded the finish line image out of sight, people were more likely to look at the X-axis and make the connection with poll ranges. One commented "so it's possible Warren is in the lead then?" which gave me an idea for a focused version of the graph.
 
 To appease my critics and also the viewers of Real Clear Politics (which seems to cater toward a more "nerdy" statistician viewer), I decided to get rid of some of the childish elements like the confusing finish line. In the end I went with a box and whisker plot, which showcases range in a format that a viewer versed in basic statistics can immediately recognize for what it is. I thought that would suit the Real Clear Politics audience nicely.<br>
-<img src="https://i.postimg.cc/C5pY7Tb1/poll.jpg">
+<img src="https://i.postimg.cc/bNkJnLcL/poll.jpg">
 
-Warren does appear to be a bit of a wild card with the largest range of poll results. I made a focused version that compares her to the others:<br><img src="https://i.postimg.cc/GhZPjX5f/poll3.jpg">
+Warren does appear to be a bit of a wild card with the largest range of poll results. I made a focused version that compares her to the others:<br><img src="https://i.postimg.cc/TPmCMZZg/poll3.jpg">
 
 To improve upon these iterations (but with more data outside this scope), I thought about creating a version with "weighted" poll results, whereby those who are more trustworthy might be indicated by circle size and also pull the average toward their outcomes. That seems like a subjective weight though, and I'm not sure if such a ranking has been carried out and quantified. 
 
