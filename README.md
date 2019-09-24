@@ -12,6 +12,9 @@ When I'm not at school or with my family, I work as a strategy and resource deve
 I often have to convince clients to pursue a given course of action, but data alone is not enough-- it has a higher chance of success if it comes in a clear and actionable package. <br> Further, I'd like to go beyond persuading my client, I want to teach them how to present their own data in a way that tells a compelling story for funders.
 
 # Portfolio
+## <a href="https://vbuffry.github.io/data_stories/project">Culminating Project</a>
+
+## Class Assignments
 Real Clear Politics uses a <a href="https://www.realclearpolitics.com/epolls/2020/president/us/2020_democratic_presidential_nomination-6730.html">table</a> to visualize the spread of poll results for each candidate. From this, they derive an average, which is what the average person reads about in the news. However, after the upset of the 2016 election, when Donald Trump's victory seemed to defy polling data, I have a strong instinct to look beyond the 'average' by itself. The table presentation of the information put such a cognitive burden on me that it was not easy to judge the range of possible outcomes per candidate at this moment in time.<br><img src="https://i.postimg.cc/TYpMb3z9/poll1.jpg" width="600"><br>
 
 This was one of the key ideas I spoke about in my critique of the visualization, which rated it highly for having "all the data" present (truthfulness and completeness), but low for intuitiveness, perceptability, engagement, and aesthetics. I mentioned that Real Clear POlitics is aiming toward a more sophisticated politics junkie who knows statistics... but that doesn't mean they don't want their information cleanly and intuitively presented. Some good features of the table as it was were that you could click on the poll title and see a copy of the actual instrument used to yield those results. 
