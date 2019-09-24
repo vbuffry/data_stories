@@ -10,8 +10,12 @@ Outcome for reader: "As a reader, I want to understand the impact of compounding
 My hook is about those aspects of the "American Dream" that are out of reach for those cyclically poor. The concept of the American Dream provides some baseline that we believe Americans should be able to access (e.g stable, safe environment for children, good health, career opporunities, some leisure time). I would like to abstractly quantify what that costs (some have tried, e.g. <a href="https://www.dailymail.co.uk/news/article-2681136/Can-afford-American-Dream-Study-shows-ideal-lifestyle-costs-130-357-year.html">Daily Mail</a> in 2014). 
 
 ## Initial Sketches
+Ideal American Dream: 
 <img src="https://i.postimg.cc/mk7DKMHJ/IMG-20190924-145953.jpg"> 
 Ideas: Sample projectile of American Dream, overlaid with annual net worth or income data?
+
+Black Poverty Cycle: 
+<img src="https://i.postimg.cc/JzNGKtHt/IMG-20190924-161732.jpg">
 
 ## Data
 Data on "wealth" will primarily come from the Census Bureau's reports on Wealth and Asset Ownership and Debt, data which covers pre-and-post 2008 (a turning point in the gap): https://www.census.gov/topics/income-poverty/wealth/data/tables.All.html
