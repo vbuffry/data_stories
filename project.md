@@ -78,3 +78,7 @@ I ended up going back to square one and decided to focus on my professional acti
 4) Color: Some feedback here included: Lighter colors on the bottom faded into background, but too light on top and you risk the same effect. The black/red color scheme seemed most emotionally-triggering, but almost too much, where they suspected over-dramatization and manipulation. Black color was also confusing because it represented white data, BUT drew the eye more than alternatives. The top right light green/black seemed to be most liked, though could use some work.
 
 5) Here they were most interested in those aspects which impacted networth which a financial counselor is able to impact, such as saving for college or retirement, home ownership, loans, etc. One imagined this could send a signal to funders that they are proactively targetting data-backed gaps that can lead to more racial equity. They also asked for information relevant to Pittsburgh's financial needs. If time permits, I can look beyond national-level census data and see if there is any Pittsburgh-level data, perhaps using GIS.
+
+## Story Arc
+There is a way that financial counseling programs can serve as a front line against the racial wealth gap.
+We need to be educated about the particular challenges black customers face...
