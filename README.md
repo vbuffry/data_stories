@@ -12,7 +12,7 @@ When I'm not at school or with my family, I work as a strategy and resource deve
 I often have to convince clients to pursue a given course of action, but data alone is not enough-- it has a higher chance of success if it comes in a clear and actionable package. <br> Further, I'd like to go beyond persuading my client, I want to teach them how to present their own data in a way that tells a compelling story for funders.
 
 # Portfolio
-## <a href="https://carnegiemellon.shorthandstories.com/vbuffry/index.html"> Click Here to See My Final Project>
+## <a href="https://carnegiemellon.shorthandstories.com/vbuffry/index.html">Final Project</a>
   Here you can go <a href="https://vbuffry.github.io/data_stories/project">behind the scenes</a> of the project.
 
 ## Class Assignments
