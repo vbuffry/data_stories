@@ -84,5 +84,5 @@ This was the first time I was educated to take care to use legally-licensed imag
 Overall I am quite proud of the minimalist aspects of my work. I just wish Tableau would have cooperate when embedding my graphs!
 
 
-## <a href='https://carnegiemellon.shorthandstories.com/vbuffry/index.html'>The Final Product</a>
+## <a href='https://carnegiemellon.shorthandstories.com/vbuffry/index.html'>Click Here to See the Final Product!</a>
 
